@@ -1,0 +1,3 @@
+﻿  misterco.cpp
+C:\Users\asdpr\source\repos\misterco\misterco\misterco.cpp(5,33): warning C4101: q: неиспользованная локальная переменная
+  misterco.vcxproj -> C:\Users\asdpr\source\repos\misterco\Debug\misterco.exe
